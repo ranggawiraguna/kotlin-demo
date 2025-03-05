@@ -1,12 +1,12 @@
-1. 	Basic 
+1. 	Basic (42)
    	https://www.youtube.com/playlist?list=PL-CtdCApEFH_hja5vRJgQOXylCiQud7Qa
-2. 	Object Oriented Programming 
+2. 	Object Oriented Programming (51)
 	https://www.youtube.com/playlist?list=PL-CtdCApEFH8lHOsi7kIDxK57WWLmzVog
-3. 	Generic
+3. 	Generic (16)
 	https://www.youtube.com/playlist?list=PL-CtdCApEFH8MW630XLcNKsBDWCCdh2mR
-4. 	Collection
+4. 	Collection (42)
 	https://www.youtube.com/playlist?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr
-5. 	Unit Test
+5. 	Unit Test (25)
 	https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up
-6. 	Mobile Development
+6. 	Mobile Development (?)
 	Ongoing
