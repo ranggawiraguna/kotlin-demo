@@ -1,0 +1,1 @@
+cd "/Users/user/Projects/Kotlin Projects/KotlinLearning/Basic/29 - Package Import/" && kotlinc main.kt com/learning/kotlin/config/constants.kt com/learning/kotlin/service/utilities.kt -include-runtime -d main.jar && java -jar main.jar
