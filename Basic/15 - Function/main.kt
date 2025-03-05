@@ -51,5 +51,5 @@ fun getNameWithAgeAndStatus(name:String, age:Int?=null, status:String="Unknown")
 }
 
 // Single Expression Function
-fun printNameWithAgeAndStatusSingleExpression(name:String, age:Int?=null, status:String="Unknown") = """$name (${if (age != null) age else "Unknown"} - $status)"""
+fun printNameWithAgeAndStatusSingleExpression(name:String, age:Int?=null, status:String="Unknown") = println("""$name (${if (age != null) age else "Unknown"} - $status)""")
 fun getNameWithAgeAndStatusSingleExpression(name:String, age:Int?=null, status:String="Unknown") : String = """$name (${if (age != null) age else "Unknown"} - $status)"""
