@@ -8,5 +8,5 @@
 	https://www.youtube.com/playlist?list=PL-CtdCApEFH-aC-35fw5qrr6DZ-qMzmRr
 5. 	Unit Test (25)
 	https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up
-6. 	Mobile Development (?)
-	Ongoing
+6. 	Mobile Development
+	- https://www.youtube.com/watch?v=pUTz5IOkBtE

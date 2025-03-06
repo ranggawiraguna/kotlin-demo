@@ -1,1 +1,0 @@
-cd "/Users/user/Projects/Kotlin Projects/KotlinLearning/Basic/30 - Main Parameter/" && kotlinc main.kt -include-runtime -d main.jar && java -jar main.jar "Rangga Wiraguna" "Fasya Nazihah"
